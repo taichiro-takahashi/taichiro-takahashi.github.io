@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>https://taichiro-takahashi.github.io/post/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 29 May 2020 10:38:58 -0700</lastBuildDate>
+    
+	<atom:link href="https://taichiro-takahashi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブログ開設</title>
+      <link>https://taichiro-takahashi.github.io/post/first/</link>
+      <pubDate>Fri, 29 May 2020 10:38:58 -0700</pubDate>
+      
+      <guid>https://taichiro-takahashi.github.io/post/first/</guid>
+      <description>初めてブログを開設しました。 このブログでは、私の自己満の日記を書いていこうと思う。 まずは、自己紹介をします。相手はいないけど。 私の名前は高橋です。よくいる名前ですよね、今年で２０歳になりました。 今は都内に友人と住んでおり、以前は埼玉県にて一人暮らしをしておりました。 趣味はスノーボードで冬以外は、スケボーをしています。 好きな食べ物はラーメンですが、最近は頑張って自炊を始めました。 そういった部分をこれから発信していこうと思います。</description>
+    </item>
+    
+  </channel>
+</rss>
